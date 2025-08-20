@@ -42,3 +42,11 @@ GitHub for version control
 REST APIs for communication
 
 JWT
+
+🚀 **Getting Started**
+
+1. Clone the repository
+2. Install the dependencies
+```bash npm i```
+3. Run
+```bash npm run dev```
