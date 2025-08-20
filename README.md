@@ -1,73 +1,44 @@
-# Welcome to your Lovable project
+🚀 **Leveling Up**
 
-## Project info
+Leveling Up is a fullstack gamified coding progress tracker that helps you stay motivated while practicing on platforms like LeetCode and GeeksforGeeks (GFG). It fetches your problem-solving progress via APIs, stores the data using WorqHat APIs & Databases, and presents it in a fun, game-like environment — making coding practice more engaging and rewarding.
 
-**URL**: https://lovable.dev/projects/102bd27a-e5a8-4785-b035-b28f894b24d0
+✨ **Features**
 
-## How can I edit this code?
+📊 **Track Progress**
+Monitor your solved problems, streaks, and milestones from LeetCode and GFG.
 
-There are several ways of editing your application.
+🏆 **Gamification**
+Gain XP, levels, and badges as you solve problems to keep learning fun.
 
-**Use Lovable**
+🔗 **Profile Integration**
+Connect your LeetCode and GFG profiles for real-time progress tracking.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/102bd27a-e5a8-4785-b035-b28f894b24d0) and start prompting.
+☁️ **WorqHat API & Database Integration**
+Backend powered by WorqHat APIs with database storage for secure and efficient data handling.
 
-Changes made via Lovable will be committed automatically to this repo.
+🌐 **Fullstack Implementation**
+Built with a clean frontend and a scalable backend to provide a seamless experience.
 
-**Use your preferred IDE**
+🛠️ **Tech Stack**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Frontend:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+React.js / Next.js (depending on your setup)
 
-Follow these steps:
+Tailwind CSS / Shadcn UI (for styling)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Backend:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Node.js + Express.js
 
-# Step 3: Install the necessary dependencies.
-npm i
+WorqHat APIs for profile data fetching
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+WorqHat Database for user progress storage
 
-**Edit a file directly in GitHub**
+Other Tools:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+GitHub for version control
 
-**Use GitHub Codespaces**
+REST APIs for communication
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/102bd27a-e5a8-4785-b035-b28f894b24d0) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+JWT
