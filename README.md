@@ -47,6 +47,6 @@ JWT
 
 1. Clone the repository
 2. Install the dependencies
-```bash npm i```
+```npm i```
 3. Run
-```bash npm run dev```
+```npm run dev```
